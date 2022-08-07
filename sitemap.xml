@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://omarjab01.github.io/blog/</loc>
+    <lastmod>2022-08-07T20:07:39+02:00</lastmod>
+  </url><url>
+    <loc>https://omarjab01.github.io/</loc>
+    <lastmod>2022-08-07T20:07:39+02:00</lastmod>
+  </url><url>
+    <loc>https://omarjab01.github.io/blog/primo_post/</loc>
+    <lastmod>2022-08-07T20:07:39+02:00</lastmod>
+  </url><url>
     <loc>https://omarjab01.github.io/tags/about/</loc>
     <lastmod>2022-08-07T19:39:56+02:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2022-08-07T19:39:56+02:00</lastmod>
   </url><url>
     <loc>https://omarjab01.github.io/tags/omar/</loc>
-    <lastmod>2022-08-07T19:39:56+02:00</lastmod>
-  </url><url>
-    <loc>https://omarjab01.github.io/</loc>
     <lastmod>2022-08-07T19:39:56+02:00</lastmod>
   </url><url>
     <loc>https://omarjab01.github.io/page/</loc>

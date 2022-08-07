@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Omar Jabraoui</title>
+    <link>https://omarjab01.github.io/blog/</link>
+    <description>Recent content in Blogs on Omar Jabraoui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 20:07:39 +0200</lastBuildDate><atom:link href="https://omarjab01.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primo Post</title>
+      <link>https://omarjab01.github.io/blog/primo_post/</link>
+      <pubDate>Sun, 07 Aug 2022 20:07:39 +0200</pubDate>
+      
+      <guid>https://omarjab01.github.io/blog/primo_post/</guid>
+      <description>Primo Post </description>
+    </item>
+    
+  </channel>
+</rss>
