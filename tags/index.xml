@@ -5,6 +5,34 @@
     <link>https://omarjab01.github.io/tags/</link>
     <description>Recent content in Tags on Omar Jabraoui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omarjab01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 19:39:56 +0200</lastBuildDate><atom:link href="https://omarjab01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://omarjab01.github.io/tags/about/</link>
+      <pubDate>Sun, 07 Aug 2022 19:39:56 +0200</pubDate>
+      
+      <guid>https://omarjab01.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://omarjab01.github.io/tags/me/</link>
+      <pubDate>Sun, 07 Aug 2022 19:39:56 +0200</pubDate>
+      
+      <guid>https://omarjab01.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omar</title>
+      <link>https://omarjab01.github.io/tags/omar/</link>
+      <pubDate>Sun, 07 Aug 2022 19:39:56 +0200</pubDate>
+      
+      <guid>https://omarjab01.github.io/tags/omar/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
